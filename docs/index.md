@@ -1,19 +1,14 @@
-# Welcome to MkDocs
+# Welcome to My Portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Xin chào! 👋
 
-## Commands
+I'm Truong Cong Dat Dodero, a passionate developer and tech enthusiast. Welcome to my personal website where I share my projects, thoughts, and experiences.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## What You'll Find Here
 
-## Project layout
+- 🚀 Projects I've worked on
+- 📝 Blog posts about tech and development
+- 👨‍💻 Information about my skills and experience
+- 📫 Ways to connect with me
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-I love :beers: and :pizza:        
+Feel free to explore and get in touch!        
